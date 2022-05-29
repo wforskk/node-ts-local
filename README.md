@@ -1,0 +1,1 @@
+npm run nodeでmain.tsのmain関数を実行する。
